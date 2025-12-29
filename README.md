@@ -1,6 +1,3 @@
-  <h2 align="center">Hi there 👋, my name is Artyom</h2>
-<h3 align="center">GO</h3>
-
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
