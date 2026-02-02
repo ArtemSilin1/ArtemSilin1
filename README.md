@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h4>Tech Stack</h4>
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
