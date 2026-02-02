@@ -29,6 +29,7 @@ Web-dev
 <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Compose" />
 <img src="https://img.shields.io/badge/-k8s-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
 <br />
